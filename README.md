@@ -2,9 +2,10 @@
 
 ## 🤗 Sobre mim
 
-- 🌎 Sou de Fortaleza,CE - Brasil
+- 🌎 Sou de Fortaleza/CE - Brasil
 - 📚 Aluna de Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/" target="_blank" rel="noopener noreferrer"> Descomplica UniAmérica<a/>.
-- 👩‍💻 Aluna de Full Stack na <a href="https://digitalcollege.com.br/" target="_blank" rel="noopener noreferrer">Digital College<a/>.
+- 👩‍💻 Aluna de Full Stack na <a href="https://cubos.academy/" target="_blank" rel="noopener noreferrer">Cubos Academy<a/>.
+- Amo as séries: Friends e The Big Bang Theory ❤️
   
 ##
 
