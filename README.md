@@ -6,7 +6,7 @@
 - 📚 Aluna de Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/" target="_blank" rel="noopener noreferrer"> Descomplica UniAmérica<a/>.
 - 🌎 Sou de Fortaleza/CE - Brasil
 - 🤔 Curisidades:
-  - Amo as séries: Friends, The Big Bang Theory, The Office ❤️
+  - Amo as séries: Friends, The Big Bang Theory e The Office ❤️
   - Tenho um gatinho chamado Aladdin 😺
   - Sou apaixonada por quebra-cabeças 🤓
   
