@@ -2,10 +2,13 @@
 
 ## 🤗 Sobre mim
 
-- 🌎 Sou de Fortaleza/CE - Brasil
+- 👩‍💻 Trabalho como Desenvolvedora na empresa  <a href="https://www.contavoltz.com.br/" target="_blank" rel="noopener noreferrer">Voltz<a/>.
 - 📚 Aluna de Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/" target="_blank" rel="noopener noreferrer"> Descomplica UniAmérica<a/>.
-- 👩‍💻 Aluna de Full Stack na <a href="https://cubos.academy/" target="_blank" rel="noopener noreferrer">Cubos Academy<a/>.
-- Amo as séries: Friends e The Big Bang Theory ❤️
+- 🌎 Sou de Fortaleza/CE - Brasil
+- 🤔 Curisidades:
+  - Amo as séries: Friends, The Big Bang Theory, The Office ❤️
+  - Tenho um gatinho chamado Aladdin 😺
+  - Sou apaixonada por quebra-cabeças 🤓
   
 ##
 
@@ -27,7 +30,6 @@
 ## 📫 Como chegar até mim:
 
 <div> 
-  <a href="https://www.instagram.com/elany_peixoto/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:elanysantos5@outlook.com" ><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elany-peixoto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
