@@ -2,9 +2,9 @@
 
 ## 👩‍💻 Sobre mim
 
-- 💼 Atualmente sou **Analista de Sistemas Júnior na CI&T**, atuando em um projeto de RH para o **Grupo Nós**, com desenvolvimento Full Stack utilizando **React, Next.js, Node.js e MongoDB**.
+- 💼 Atualmente sou **Analista de Sistemas na CI&T**, atuando em um projeto de RH para o **Grupo Nós**, com desenvolvimento Full Stack utilizando **React, Next.js, Node.js e MongoDB**.
 - 💡 Tenho experiência em arquitetura escalável, Clean Code, testes automatizados e pipelines com Jenkins e Rancher.
-- 🧠 Atuo também com **Inteligência Artificial aplicada ao desenvolvimento**, utilizando a **LLM Flow (CI&T)** para automações como revisão de código baseada em git diff.
+- 🧠 Atuo também com **Inteligência Artificial aplicada ao desenvolvimento**, utilizando a **LLM Flow (CI&T)** para automações.
 - 📚 Sou estudante de **Análise e Desenvolvimento de Sistemas** na [Descomplica UniAmérica](https://descomplica.com.br/faculdade/).
 - 🌎 Moro em **Fortaleza/CE – Brasil**.
 
